@@ -1,4 +1,4 @@
-# 30-Days-Of-Python: 
+# 30-Days-Of-Python
 
 A tecnical test provided by Metricell using React,  styled components, .NET Core, SQlite.
 
