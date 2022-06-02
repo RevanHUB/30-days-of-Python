@@ -1,0 +1,14 @@
+{
+  "name": "python",
+  "private": true,
+  "proxy": "http://localhost:3000",
+  "version": "0.0.1",
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+    "scripts": {
+      "start": "cd new day && python app.py",
+      "delete": "rmdir /s /q new_day",
+      "build": "del new_day && mkdir new_day && cd new_day && mkdir config && cd config && echo ##> config.py && cd ../ && mkdir modules && cd modules &&  echo ##> moduleA.py && echo ##> moduleB.py && echo ##> moduleC.py && cd ../ && mkdir src && echo ##> app.py"
+    }
+}
