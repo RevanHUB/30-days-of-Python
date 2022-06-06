@@ -8,7 +8,7 @@ A tecnical test to improve my programming logics and develope backend with Pytho
 
 # Commands: ✨
 ``` npm run delete ```
-# Borra la carpeta, antes de terminar el día cambia el nombre de la carpeta. 
+Borra el repositorio
 ``` npm run build ```
 Crea el repositorio
 ``` npm run start ```
